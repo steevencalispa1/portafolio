@@ -58,6 +58,7 @@ header {
     background-color: var(--gris);
     color: var(--blanco);
     padding: 5%;
+    padding-top: 8%;
 }
 
 .hero_text {
@@ -116,6 +117,9 @@ header {
 
 .proyect_descrip {
     color: var(--gris);
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .container_padre {
